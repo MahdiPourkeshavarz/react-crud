@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "name": "test",
+      "price": 10,
+      "categori": "test",
+      "description": "test test",
+      "id": "fcc2b5f5-e011-485d-b941-1a00355d400d"
+    },
+    {
+      "name": "test",
+      "price": 10,
+      "categori": "test",
+      "description": "test 2",
+      "id": "aae09007-dc4d-4f7d-bbda-d362ee812c95"
+    },
+    {
+      "name": "test",
+      "price": 13,
+      "categori": "tes5",
+      "description": "test 32",
+      "id": "aae09007-dc4d-4f7d-bbda-d362ee812c93"
+    }
+  ]
+}
